@@ -1,1 +1,2 @@
 Z:\Project\VB_Project\WindowsShield\WindowsShield\bin\Debug\Mira.exe.config
+Z:\Project\VB_Project\Microkernel-Intelligent-Reversed-AntiVirus\WindowsShield\bin\Debug\Mira.exe.config
