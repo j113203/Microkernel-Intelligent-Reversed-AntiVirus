@@ -1,0 +1,23 @@
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\bin\Debug\WindowsShield.exe.config
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\bin\Debug\WindowsShield.exe
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\bin\Debug\WindowsShield.pdb
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\bin\Debug\WindowsShield.xml
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.vbprojResolveAssemblyReference.cache
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.Resources.resources
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.vbproj.GenerateResource.Cache
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.exe
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.xml
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.pdb
+C:\Users\j113203\AppData\Local\Temporary Projects\WindowsShield\obj\Debug\WindowsShield.Main.resources
+Z:\Project\VB_Project\WindowsShield\WindowsShield\bin\Debug\WindowsShield.exe.config
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.exe
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.xml
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.pdb
+Z:\Project\VB_Project\WindowsShield\WindowsShield\bin\Debug\WindowsShield.exe
+Z:\Project\VB_Project\WindowsShield\WindowsShield\bin\Debug\WindowsShield.pdb
+Z:\Project\VB_Project\WindowsShield\WindowsShield\bin\Debug\WindowsShield.xml
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.vbprojResolveAssemblyReference.cache
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.Main.resources
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.Resources.resources
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.vbproj.GenerateResource.Cache
+Z:\Project\VB_Project\WindowsShield\WindowsShield\obj\Debug\WindowsShield.程式檢查.resources
